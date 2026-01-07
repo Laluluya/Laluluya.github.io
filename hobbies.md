@@ -25,4 +25,5 @@ She has been an important part of my life and brings me joy and companionship be
 
 <div class="half">
   <img src="/feifei.jpg">
+  <img src="/fei.jpg">
 </div>
