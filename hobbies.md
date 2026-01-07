@@ -6,8 +6,6 @@ title: Hobbies
 
 # Hobbies
 
-## Snowboarding
-
 I am particularly passionate about **snowboarding**.  
 Snowboarding allows me to stay active, challenge myself physically and mentally, and enjoy the outdoors in a focused and refreshing way. 
 
