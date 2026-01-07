@@ -17,9 +17,6 @@ html {
 	.prefix(12,1);
 	.suffix(12,1);
 	margin-bottom: 1em;
-	a {
-		text-decoration: none;
-	}
 }
 .top-navigation {
 	.container();
@@ -27,6 +24,8 @@ html {
 	.prefix(12,1);
 	.suffix(12,1);
 	margin-bottom: 1em;
+}
+.top-navigation {
 	ul {
 		list-style: none;
 		margin: 0;
@@ -118,23 +117,6 @@ html {
 	h3 {
 		.delta();
 	}
-	p {
-		& + p {
-			text-indent: 1.5em;
-			margin-top: -1.5em;
-		}
-		&:first-of-type {
-			text-indent: 0;
-		}
-	}
-	.profile-photo-right {
-		float: right;
-		margin: 0 0 1em 1em;
-		max-width: 300px;
-		width: auto;
-		height: auto;
-		border-radius: 8px;
-	}
 }
 .byline {
 	clear: both;
@@ -154,14 +136,10 @@ html {
 	}
 	img.bio-photo {
 		.rounded(100px);
-		width: 100%;
-		height: auto;
-		display: block;
-		margin: 0 auto;
 	}
 }
 .article-author-top {
-	display: block;
+	display: none;
 }
 .article-author-bottom {
 	.bio-photo {

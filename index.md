@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<img src="/wo.jpg" class="profile-photo-right" alt="Hairong Ni">
+<img src="https://laluluya.github.io/wo.jpg" class="floatpic">
 
 Here is **Hairong Ni**.
 

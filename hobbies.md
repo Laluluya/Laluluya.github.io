@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hobbies/
+permalink: /hobbies/index.html
 title: Hobbies
 ---
 
