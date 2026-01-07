@@ -6,8 +6,8 @@ title: Hobbies
 
 # Hobbies
 
-I am particularly passionate about **snowboarding**.  
-Snowboarding allows me to stay active, challenge myself physically and mentally, and enjoy the outdoors in a focused and refreshing way. 
+&emsp;&emsp;I am particularly passionate about **snowboarding**.  
+&emsp;&emsp;Snowboarding allows me to stay active, challenge myself physically and mentally, and enjoy the outdoors in a focused and refreshing way. 
 
 I am always happy to connect with others who share an interest in snowboarding or winter sports, whether for casual discussions, trip planning, or riding together.
 
