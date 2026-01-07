@@ -14,8 +14,8 @@ Snowboarding allows me to stay active, challenge myself physically and mentally,
 I am always happy to connect with others who share an interest in snowboarding or winter sports, whether for casual discussions, trip planning, or riding together.
 
 <div class="half">
-  <img src="/assets/images/s1.jpg">
-  <img src="/assets/images/s2.jpg">
+  <img src="/s1.jpg">
+  <img src="/s2.jpg">
 </div>
 
 ---
@@ -26,5 +26,5 @@ My dog’s name is **Feifei (菲菲)**.
 She has been an important part of my life and brings me joy and companionship beyond my academic pursuits.
 
 <div class="half">
-  <img src="/assets/images/feifei.jpg">
+  <img src="/feifei.jpg">
 </div>
