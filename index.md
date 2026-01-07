@@ -3,10 +3,7 @@ layout: page
 ---
 
 # About Me
-<div style="text-align: center; margin-top: 1rem;">
-  <img src="/assets/images/avatar.jpg" 
-       style="width: 200px; border-radius: 50%;" />
-</div>
+<img src="/wo.jpg" class="profile-photo-right" alt="Hairong Ni">
 
 Here is **Hairong Ni**.
 
