@@ -91,6 +91,6 @@ title: 25Fall申请记录
 
 如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧～感谢您的慷慨 ☺️
 
-<br>![pay](25csc.assets/pay.png)
+<br>![pay](/blogs/25csc.assets/pay.png)
 
 <br>

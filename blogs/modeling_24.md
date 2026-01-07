@@ -61,7 +61,7 @@ backup
 > 微信号：lancecai2002，欢迎合作交流！
 >
 
-<br>![wechat](to-do-list/wechat.png)
+<br>![wechat](/blogs/to-do-list/wechat.png)
 
 ---
 

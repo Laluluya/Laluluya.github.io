@@ -11,7 +11,7 @@ title: web
 > 更新时间：2023/05/30
 
 <center>
-<img src = "/blogs/web.assets/github-logo.png">
+<img src = "/blogs//blogs/web.assets/github-logo.png">
 </center>
 <br>本站点自2022年12月正式发布以来，经历了2次重大修改，如今的单月访客量达到500+，在此感谢各位访客朋友的支持！与此同时，许多朋友也开始通过各种形式来咨询笔者——**如何搭建属于自己的轻量化主页？**
 
@@ -35,7 +35,7 @@ title: web
 - Clustrmaps 访客分布动态地球仪（现已停用）
 
 <center>
-<img src="/blogs/web.assets/jekyll-logo.png">
+<img src="/blogs//blogs/web.assets/jekyll-logo.png">
 </center>
 
 ## 正文部分
@@ -51,7 +51,7 @@ title: web
 - 关于Github Desktop如何使用，请参考[官方中文文档](https://docs.github.com/zh/desktop)
 - 完成注册及下载后，请进入本站的代码仓库[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
 
-<br>![image-20230427101010881](web.assets/image-20230427101010881.png)
+<br>![image-20230427101010881](/blogs/web.assets/image-20230427101010881.png)
 
 <br>完成上述前置工作后，接下来，我们来复制网站代码运行仓库，这也是最关键的步骤之一，请务必细心：
 
@@ -62,7 +62,7 @@ title: web
 - 勾选Copy the `main` branch only（只需要复制项目主支即可）
 - 最后，点击`Create fork`，完成代码仓库复制
 
-<br>![image-20230427100805390](web.assets/image-20230427100805390.png)
+<br>![image-20230427100805390](/blogs/web.assets/image-20230427100805390.png)
 
 <br>到此为止，基本的工作已经完成一半了，如果在上面的步骤中出现了任何简单问题，请学会`STFW (Search The Friendly Web)`
 
@@ -96,7 +96,7 @@ title: web
 ├── mypaper   存放个人学术文章，用于设置访问链接
 ```
 
-<br>![image-20230427101317954](web.assets/image-20230427101317954.png)
+<br>![image-20230427101317954](/blogs/web.assets/image-20230427101317954.png)
 
 ---
 
@@ -136,7 +136,7 @@ links:
 
 ### (4) 图片链接配置
 
-读者朋友应该发现了，本文中出现的所有图片都放置在`./blogs/web.assets/`文件夹下，接下来会讲解如何应用和规范图片格式，帮助你在后期减少运营工作量。
+读者朋友应该发现了，本文中出现的所有图片都放置在`./blogs//blogs/web.assets/`文件夹下，接下来会讲解如何应用和规范图片格式，帮助你在后期减少运营工作量。
 
 <br>到这里，笔者要引入Jekyll静态站点的第一条哲学了：**一切都是有备而来**。
 
@@ -144,11 +144,11 @@ links:
 
 <br>下面，笔者将展示一张二次元图片，并解释如何配置该图片：
 
-<br>![image-20230427104320952](web.assets/image-20230427104320952.png)
+<br>![image-20230427104320952](/blogs/web.assets/image-20230427104320952.png)
 
-<br>![image-20230427104405873](web.assets/image-20230427104405873.png)
+<br>![image-20230427104405873](/blogs/web.assets/image-20230427104405873.png)
 
-<br>![image-20230427104831706](web.assets/image-20230427104831706.png)
+<br>![image-20230427104831706](/blogs/web.assets/image-20230427104831706.png)
 
 <br>聪明的你应该发现了，只需要引入“相对地址链接”，然后上传到Github仓库中，就可以完成图片媒体的配置。需要注意的是，有的同学可能知道“图床技术”，但对于个人站点而言，这类需要长期维护的网站，**强烈不建议使用第三方图床服务**。
 
@@ -166,7 +166,7 @@ links:
 
 <br>
 
-![wechat](web.assets/wechat.PNG)
+![wechat](/blogs/web.assets/wechat.PNG)
 
 > **Update in July 2023**
 >
@@ -180,7 +180,7 @@ links:
 
 <br>而这里的文件配置链接，**则必须使用“绝对地址”。**
 
-<br>![image-20230427110918118](web.assets/image-20230427110918118.png)
+<br>![image-20230427110918118](/blogs/web.assets/image-20230427110918118.png)
 
 <br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
 
@@ -210,7 +210,7 @@ links:
 
 <br>基于此，笔者也在这里埋下一个小小的伏笔：下面这张图片中，展示了`fork`本仓库，但没有修改其中代码文件的站点。请读者朋友尝试着找到原因——到底是哪个文件里的哪串代码，让我可以知道这些站点没有修改文件，并获取他们的访客数据呢？
 
-<br>![image-20230427120849054](web.assets/image-20230427120849054.png)
+<br>![image-20230427120849054](/blogs/web.assets/image-20230427120849054.png)
 
 <br>完成这项小挑战后，可以和笔者取得联系，在线聊天15分钟，让我们通过互联网进一步`connect the world`吧！
 
@@ -228,7 +228,7 @@ links:
 
 <br>**这对我非常重要，特别感谢！**
 
-<br>![image-20230427101010881](web.assets/image-20230427101010881.png)
+<br>![image-20230427101010881](/blogs/web.assets/image-20230427101010881.png)
 
 <br>与此同时，如果你有任何的**建议/意见**，或者**用得不爽的地方**：
 

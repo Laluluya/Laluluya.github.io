@@ -22,7 +22,7 @@ title: stop
 
 
 
-<br>![202208](stop.assets/202208.jpeg)
+<br>![202208](/blogs/stop.assets/202208.jpeg)
 
 <br>当我们试图用一种更理想化，或是自欺欺人的方式来解读这种大环境的现象——也许是大多数人不想去区分“卷”和“奋斗”——但当你收到10条咨询，里面有8条都是如何取得高绩点、加入实验室、搞论文，云云。
 
@@ -62,7 +62,7 @@ title: stop
 
 <br>我不确信我猜的对不对，我只确信我的时间是不会停的。
 
-<br>![keyibugaoqing](stop.assets/0502.jpg)
+<br>![keyibugaoqing](/blogs/stop.assets/0502.jpg)
 
 <br>
 

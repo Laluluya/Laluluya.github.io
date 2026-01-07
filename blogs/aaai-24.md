@@ -37,7 +37,7 @@ title: Lance的AAAI参会实录
 <br>吐槽一句，加拿大签证的工作量比申请帝国理工还大好多。下面这个图是个人陈述PS的附加材料表，大概是1/8的workload
 
 <center>
-<img src="/blogs/aaai-24.assets/image-20240102233256486.png">
+<img src="/blogs//blogs/aaai-24.assets/image-20240102233256486.png">
 </center>
 <br>0125更新，签证approved了，太开心！后面计划在b站出一期经验视频：[@小白如何参与一场国际会议](https://space.bilibili.com/594030035)
 
@@ -50,7 +50,7 @@ title: Lance的AAAI参会实录
 AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbourfront（温哥华港湾品尼高酒店），查了一下标间2月的价格，大概是2000港币一晚，白嫖真爽！
 
 <center>
-<img src="/blogs/aaai-24.assets/image-20240103220603425.png">
+<img src="/blogs//blogs/aaai-24.assets/image-20240103220603425.png">
 </center>
 <br>0127开始订航班，决定2月19号从厦门高崎机场出发，途径香港中转，然后再飞温哥华。2月28号返程，香港中转后飞回福州长乐机场，然后就直接回学校了。
 
@@ -76,12 +76,12 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 
 #### Wonderful Moments
 
-<br>![3_2](aaai-24.assets/3_2.jpg)
+<br>![3_2](/blogs/aaai-24.assets/3_2.jpg)
 
-<br>![1](aaai-24.assets/1.PNG)
+<br>![1](/blogs/aaai-24.assets/1.PNG)
 
-<br>![4](aaai-24.assets/4.JPG)
+<br>![4](/blogs/aaai-24.assets/4.JPG)
 
-<br>![2](aaai-24.assets/2.JPG)
+<br>![2](/blogs/aaai-24.assets/2.JPG)
 
 <br>

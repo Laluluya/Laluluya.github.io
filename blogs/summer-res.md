@@ -174,4 +174,4 @@ title: summer-res
 
 <br>欢迎付费咨询：线上腾讯会议1v1咨询，费用100元/小时，欢迎联系我。
 
-<br>![wechat](yrs.assets/wechat.png)
+<br>![wechat](/blogs/yrs.assets/wechat.png)
