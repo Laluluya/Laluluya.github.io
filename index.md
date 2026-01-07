@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<img src="/wo.jpg">
+<img src="/wo.jpg" class="profile-photo-right" alt="Hairong Ni">
 
 Here is **Hairong Ni**.
 
