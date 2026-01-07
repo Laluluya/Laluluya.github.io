@@ -18,8 +18,6 @@ I am always happy to connect with others who share an interest in snowboarding o
   <img src="/assets/images/s2.jpg">
 </div>
 
-I am always happy to connect with others who share an interest in snowboarding or winter sports.
-
 ---
 
 ## My Love
