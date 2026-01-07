@@ -98,3 +98,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+favicon: /assets/images/favicon.ico
