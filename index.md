@@ -13,20 +13,12 @@ I am currently a member of the ***[Deep Think Lab](https://deepthink-umich.githu
 
 Previously, at Shanghai Jiao Tong University, I was a member of the ***[Intelligent Big Data Systems Group (IBDSys)](https://ibdsys.sjtu.edu.cn)***, where I worked on topics related to AI for Networks.
 
-I am broadly interested in machine learning, generative models, and multimodality, and I am actively seeking research internships for Spring or Summer 2026.  
+I am broadly interested in machine learning and computer vision,, and I am actively seeking research internships for Spring or Summer 2026.  
 My CV is available ***[here](https://drive.google.com/file/d/1-VQyFZgRzju6FHwvlhRYeBGbXhyR1NMB/view)***.
 
 
 ---
 
-## Research Interests
-
-- Diffusion models and generative modeling
-- Multimodal learning and vision-language models (VLMs)
-- Multimodal hypothesis generation
-- Multi-agent systems and reasoning
-
----
 
 
 
